@@ -1,5 +1,7 @@
 # Algorithms
-###Work done for Algorithms class and additional exercises.  
+
+
+## Work done for Algorithms class and additional exercises.  
 ____
 CS520_HW2:
 
