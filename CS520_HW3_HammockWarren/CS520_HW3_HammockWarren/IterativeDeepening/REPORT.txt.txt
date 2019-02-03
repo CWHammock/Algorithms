@@ -1,0 +1,18 @@
+C. Warren Hammock   
+CS520
+IDDFS program
+
+Report on Iterative Deepening Assignment
+
+I did not implement a search capability in either algorithm implementation.  I created a proof of concept build.  A search could easily be added to check every number(node) for the goal state value.  
+
+Once again, the input is an array that looks like: 
+
+                        0
+                       / \
+                      1   2
+                     / \   \
+                    3   4   5
+
+
+On my first attempt at this assignment, I tried to do it iteratively.  I tried to do it differently than I did the DFS program.  I was having a hard time conceptualizing the build iteratively.  During our first look at recursion, I asked you the question, “if you can do everything iteratively, and there is an overhead with memory with recursion, why not just do everything iteratively?”  Your response was that recursion is easier to read/understand.  I did not get that answer at the time.  It was due to my lack of experience with recursion.  This assignment helped me fully understand the beauty of recursion.  Once I changed the focus to recursion, it was significantly easier to keep track and understand what was taking place.   The program is essentially the DFS, but it does it thru levels using a for loop.   This allows it to hit 0->1->2… versus 0->1->3…  Every iteration is its own DFS program, but it is limited by the number of “children checking recursion calls” it can make.  Essentially it is handing the DFS algorithm a matrix of 1 greater level at a time.   If I had more time, I would continue my thoughts on designing this algorithm iteratively.  

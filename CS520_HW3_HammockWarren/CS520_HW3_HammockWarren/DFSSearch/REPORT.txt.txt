@@ -1,0 +1,16 @@
+C. Warren Hammock   
+CS520
+DFS program
+
+Depth First Search Assignment
+
+I did not implement a search capability in either algorithm implementation.  I created a proof of concept build.  A search could easily be added to check every number(node) for the goal state value.  
+
+In order to input the establish a matrix in locally to the program, I had to first create and input method.  The method is private and not written for use outside of the program.  The input method has become modularized to create a clear division between different aspects of the program.  It makes it easier to organize design.  The method converts each line into integers and puts them into the input.txt file into an int[x] line of the int[x][y] matrix array.  The matrix array is used to represent connected nodes in the problem.  The design for this homework is as follows:
+                        0
+                       / \
+                      1   2
+                     / \   \
+                    3   4   5
+
+The tree is unbalanced, but small for simplicity.   The function reads each of the 1's the numbers x axis and adds the number to a visited array and calls itself again to iterate down the tree, but does not act upon numbers found in the visited array.  This helps save visiting repeat nodes while performing recursive calls. Recursion lends it self nicely to tree searches and is easy to read for tree searches.  If I were going to use this for a search, I would use an adjacency list with linked lists versus an array.  I think the list is much easier to read for visual references purposes.  

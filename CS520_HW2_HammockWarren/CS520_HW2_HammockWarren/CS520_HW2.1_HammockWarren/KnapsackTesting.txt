@@ -1,0 +1,169 @@
+Zero and One Algorithm
+Starting List: 
+ItemList is : 
+Item: 1 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 2 Weight: 24.0 Price: 9.0 Value: 0.375
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 4 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 5 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 6 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 7 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 8 Weight: 6.0 Price: 12.0 Value: 2.0
+KnapsackList is : 
+After Sorting by Value in Desending Order: 
+ItemList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 4 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 5 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 6 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 7 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 8 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+ItemList is : 
+Item: 1 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 2 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 3 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 4 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 5 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 6 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 7 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Knapsack Weight is: 6
+ItemList is : 
+Item: 1 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 2 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 3 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 4 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 5 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 6 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Knapsack Weight is: 24
+ItemList is : 
+Item: 1 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 2 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 3 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 4 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 5 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Knapsack Weight is: 38
+ItemList is : 
+Item: 1 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 2 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 3 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 4 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 4 Weight: 10.0 Price: 9.0 Value: 0.9
+Knapsack Weight is: 48
+ItemList is : 
+Item: 1 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 2 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 3 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 4 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 5 Weight: 20.0 Price: 15.0 Value: 0.75
+Knapsack Weight is: 68
+Left Over Space: 12.0
+Fractional Knapsack
+Starting List: 
+ItemList is : 
+Item: 1 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 2 Weight: 24.0 Price: 9.0 Value: 0.375
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 4 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 5 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 6 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 7 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 8 Weight: 6.0 Price: 12.0 Value: 2.0
+KnapsackList is : 
+After Sorting by Value in Desending Order: 
+ItemList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 4 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 5 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 6 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 7 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 8 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+ItemList is : 
+Item: 1 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 2 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 3 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 4 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 5 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 6 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 7 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Knapsack Weight is: 6
+ItemList is : 
+Item: 1 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 2 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 3 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 4 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 5 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 6 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Knapsack Weight is: 24
+ItemList is : 
+Item: 1 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 2 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 3 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 4 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 5 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Knapsack Weight is: 38
+ItemList is : 
+Item: 1 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 2 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 3 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 4 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 4 Weight: 10.0 Price: 9.0 Value: 0.9
+Knapsack Weight is: 48
+ItemList is : 
+Item: 1 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 2 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 3 Weight: 24.0 Price: 9.0 Value: 0.375
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 4 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 5 Weight: 20.0 Price: 15.0 Value: 0.75
+Knapsack Weight is: 68
+ItemList is : 
+Item: 1 Weight: 20.0 Price: 12.0 Value: 0.6
+Item: 2 Weight: 24.0 Price: 9.0 Value: 0.375
+Item: 3 Weight: 8.0 Price: 4.800000000000001 Value: 0.6000000000000001
+KnapsackList is : 
+Item: 1 Weight: 6.0 Price: 12.0 Value: 2.0
+Item: 2 Weight: 18.0 Price: 36.0 Value: 2.0
+Item: 3 Weight: 14.0 Price: 27.0 Value: 1.9285714285714286
+Item: 4 Weight: 10.0 Price: 9.0 Value: 0.9
+Item: 5 Weight: 20.0 Price: 15.0 Value: 0.75
+Item: 6 Weight: 12.0 Price: 7.199999999999999 Value: 0.6
+Knapsack Weight is: 80

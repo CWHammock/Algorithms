@@ -1,0 +1,89 @@
+
+For the decreasing power of x coefficents: [4, 5, 6, 7, 8]
+Value of x = 5
+Starting Level: 1
+Start at: 4
+Level 2
+Multiplication step: 20
+Addition Step: 25
+Level 3
+Multiplication step: 125
+Addition Step: 131
+Level 4
+Multiplication step: 655
+Addition Step: 662
+Level 5
+Multiplication step: 3310
+Addition Step: 3318
+For the polynomial: [4, 5, 6, 7, 8], with x having a value of: 5 the answer is: 3318
+For the decreasing power of x coefficents: [5, 7, 6, 5, 3]
+Value of x = 8
+Starting Level: 1
+Start at: 5
+Level 2
+Multiplication step: 40
+Addition Step: 47
+Level 3
+Multiplication step: 376
+Addition Step: 382
+Level 4
+Multiplication step: 3056
+Addition Step: 3061
+Level 5
+Multiplication step: 24488
+Addition Step: 24491
+For the polynomial: [5, 7, 6, 5, 3], with x having a value of: 8 the answer is: 24491
+For the decreasing power of x coefficents: [4, 2, 3, 8, 9, 9]
+Value of x = 2
+Starting Level: 1
+Start at: 4
+Level 2
+Multiplication step: 8
+Addition Step: 10
+Level 3
+Multiplication step: 20
+Addition Step: 23
+Level 4
+Multiplication step: 46
+Addition Step: 54
+Level 5
+Multiplication step: 108
+Addition Step: 117
+Level 6
+Multiplication step: 234
+Addition Step: 243
+For the polynomial: [4, 2, 3, 8, 9, 9], with x having a value of: 2 the answer is: 243
+For the decreasing power of x coefficents: [6, 4, 9, 2, 7]
+Value of x = 5
+Starting Level: 1
+Start at: 6
+Level 2
+Multiplication step: 30
+Addition Step: 34
+Level 3
+Multiplication step: 170
+Addition Step: 179
+Level 4
+Multiplication step: 895
+Addition Step: 897
+Level 5
+Multiplication step: 4485
+Addition Step: 4492
+For the polynomial: [6, 4, 9, 2, 7], with x having a value of: 5 the answer is: 4492
+For the decreasing power of x coefficents: [5, 7, 3, 2, 3]
+Value of x = 3
+Starting Level: 1
+Start at: 5
+Level 2
+Multiplication step: 15
+Addition Step: 22
+Level 3
+Multiplication step: 66
+Addition Step: 69
+Level 4
+Multiplication step: 207
+Addition Step: 209
+Level 5
+Multiplication step: 627
+Addition Step: 630
+For the polynomial: [5, 7, 3, 2, 3], with x having a value of: 3 the answer is: 630
