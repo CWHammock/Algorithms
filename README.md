@@ -1,7 +1,7 @@
 # Algorithms
 
 
-## Work done for Algorithms class and additional exercises. 
+## Some of the work done for Algorithms class and additional exercises. 
 ___
 CS520_HW1:
 PowerOfDemonstration.cs: Develop two programs, one using an iterative and another using a recursive algorithm that raise x to
