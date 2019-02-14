@@ -1,0 +1,62 @@
+After Action, the Heap Looks Like: 
+-1
+18
+After Action, the Heap Looks Like: 
+-1
+10
+18
+After Action, the Heap Looks Like: 
+-1
+10
+18
+14
+After Action, the Heap Looks Like: 
+-1
+9
+10
+14
+18
+After Action, the Heap Looks Like: 
+-1
+2
+9
+14
+18
+10
+After Action, the Heap Looks Like: 
+-1
+2
+9
+7
+18
+10
+14
+After Action, the Heap Looks Like: 
+-1
+2
+9
+7
+18
+10
+14
+11
+After Action, the Heap Looks Like: 
+-1
+2
+9
+7
+12
+10
+14
+11
+18
+After Doing A DeleteTop, This Is What The Heap Looks Like: 
+After Action, the Heap Looks Like: 
+-1
+7
+9
+11
+12
+10
+14
+18

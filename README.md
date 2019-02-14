@@ -1,7 +1,19 @@
 # Algorithms
 
 
-## Work done for Algorithms class and additional exercises.  
+## Work done for Algorithms class and additional exercises. 
+___
+CS520_HW1:
+PowerOfDemonstration.cs: Develop two programs, one using an iterative and another using a recursive algorithm that raise x to
+the n-th power, where both x, n ∈ N .
+
+Program.cs: Insert 10, 5, 15, 10, 9, 7, 2, 1, 4, 3, 8 (as read) into an originally empty binary search tree (BST). Once
+the BST is populated, perform a delete(5) operation. To receive credit, you must show both how the tree looks
+after each insertion and after the delete(5) operation.
+
+Program1.cs: Insert 18, 10, 14, 9, 2, 7, 11, 12 (as read) into an empty min-heap. Show how the heap looks after each
+insertion. Once the min-heap is constructed, perform a delete-top operation.
+
 ____
 CS520_HW2:
 
